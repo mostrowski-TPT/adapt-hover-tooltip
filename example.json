@@ -1,0 +1,38 @@
+{
+    "_id": "popper2",
+    "_parentId": "b-05",
+    "_type": "component",
+    "_component": "hover_tooltip",
+    "_classes": "popupscomp",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "",
+    "body": "Las variaciones de radiación solar son, desde el siglo 20, la mayor amenaza para el bienestar de nuestro ecosistema: la presencia humana ha acelerado exponencialmente este proceso de cambio principalmente debido al <span pop='0' class='hoverarea'>calentamiento global</span>, que se deriva de las emisiones de <span pop='1' class='hoverarea'> gases contaminantes en la atmosfera</span> Algunos de ellos son los principales responsables del llamado <span pop='2' class='hoverarea'> efecto invernadero </span>. En las últimas décadas, iniciativas como las <span pop='3' class='hoverarea'>energías renovables</span>, los <span pop='4' class='hoverarea'>biocombustibles</span> y las tasas a la <span pop='5' class='hoverarea'>huella de carbono</span> ofrecen cierta esperanza y alternativas para la recuperación de la estabilidad medioambiental.",
+    "instruction": "",
+    "tooltips": [
+      {
+        "id":1,
+        "content":"es el aumento observado en más de un siglo de la temperatura del sistema climático de la Tierra y sus efectos"
+      },
+      {
+        "id":2,
+        "content":"Los contaminantes gaseosos más comunes son el dióxido y el monóxido de carbono, los hidrocarburos y el ozono, entre otros. La principal fuente artificial que produce estos compuestos químicos es la quema de combustible fósil"
+      },
+      {
+        "id":3,
+        "content":"fenómeno por el cual ciertos gases retienen parte de la energía emitida por el suelo tras haber sido calentado por la radiación solar. Se produce una elevación de la temperatura similar al que ocurre en un invernadero"
+      },
+      {
+        "id":4,
+        "content":"la energía que se obtiene de fuentes naturales virtualmente inagotables"
+      },
+      {
+        "id":5,
+        "content":"mezcla de sustancias orgánicas utilizadas como combustible en los motores de combustión interna. Deriva de la biomasa y, dependiendo de su proceso de obtención, se distinguen entre bioetanol, biodiesel y biogás"
+      },
+      {
+        "id":6,
+        "content":"totalidad de gases de efecto invernadero emitidos directa o indirectamente por un individuo, organización, evento o producto"
+      }
+    ]
+  },

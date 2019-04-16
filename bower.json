@@ -1,0 +1,15 @@
+{
+  "name": "adapt-hover-tooltip",
+  "version": "0.0.1",
+  "framework": ">=2",
+  "description": "Component used to display tooltips on hover",
+  "main": "/js/hover-tooltip.js",
+  "authors": [
+    "Your Name <mostrowski8@gmail.com>"
+  ],
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
